@@ -1,6 +1,6 @@
 
 # Just an idea pops up into my mind
-> Its about re writing/designing our books for all the possible devices we might have.
+> Its about rewriting/designing our books for all the possible devices we might have.
 
 ## What if we could make it universal?
 > Universal in a sense that separates all its contents / parts into multiple separate units.
