@@ -20,9 +20,16 @@
 * Illustration -> copy
 * style -> css
 
-## Publishing:
+## Publishing platforms
 * Website
 * Mobile app (android,ios)
 * Desktop app
 * Pdf reader
 * Epub reader
+
+## How it works?
+* At first you make each page templates (for our book)
+* Create templates using Illustrator or Figma or any tool of your choice.
+* Later Moaz or Imran will turn these into html,css
+* We will create every unit using web component
+* Once the web components are created, we can use them on various publishing platforms.
