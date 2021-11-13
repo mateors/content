@@ -7,7 +7,7 @@
 
 > We will be able to reuse it later to create / generate PDF, HTML or any other format relevant to the publishing platforms.
 
-> thus we make sure all of our resources are re-using over time and media. (web,mobileApp,pdf)
+> This way we ensure all of our content is being reused over time and on publishing platforms.
 
 ## Our book content consist of:
 * Text
