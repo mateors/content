@@ -3,9 +3,9 @@
 > Its about re writing/designing our books for all the possible devices we might have.
 
 ## What if we could make it universal?
-> universal in a sense we separate all of its contents/parts into sevarales individual unit.
+> Universal in a sense that separates all its contents / parts into multiple separate units.
 
-> later we re-use it for producing/making/generating pdf, html or any other format relevant with publishing
+> We will be able to reuse it later to create / generate PDF, HTML or any other format relevant to the publishing platforms.
 
 > thus we make sure all of our resources are re-using over time and media. (web,mobileApp,pdf)
 
